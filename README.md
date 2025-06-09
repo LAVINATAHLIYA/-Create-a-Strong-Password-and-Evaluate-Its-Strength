@@ -1,4 +1,4 @@
-# -Create-a-Strong-Password-and-Evaluate-Its-Strength
+
 Testing how complexity affects password security using strength checkers and attack research.
 
 ## Key Findings  
